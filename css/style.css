@@ -36,9 +36,22 @@ p{
     width: 100px;
     background-color: navy;
     opacity: 0.4;
-
+    margin-bottom: 15px;
 }
 
+#kotak2{
+    width: 200px;
+    height: 100px;
+    margin-bottom: 15px;
+    background-color: brown;
+}
+
+#kotak3{
+    width: 100px;
+    height: 100px;
+    background-color: darkblue;
+    border-radius: 100px;
+}
 /* .aw{  
     position: relative;
     display: inline-block;
