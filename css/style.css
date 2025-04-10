@@ -1,0 +1,58 @@
+/* body { 
+    background-color: blue;
+}*/
+h1 {
+    color: azure;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    text-shadow: blue;
+}
+
+p{
+ color: rgb(255, 0, 0);
+ text-align: justify;
+}
+#shironara{
+    color: color(from rgb(166, 255, 0) srgb r g b);
+    background-color: rgb(0, 0, 0);
+    text-shadow: 100px white;
+    opacity: 0.7;
+    
+}
+.warna1{
+    color: palevioletred;
+    background-color: rgb(0, 0, 0);
+}
+.warna2{
+    color: navy;
+    background-color: rgb(30, 255, 0);
+}
+.warna3{
+    color: cyan;
+    background-color: rgb(255, 0, 0);
+}
+
+#kotak1{ height: 100px;
+    width: 100px;
+    background-color: navy;
+    opacity: 0.4;
+
+}
+
+/* .aw{  
+    position: relative;
+    display: inline-block;
+}
+.aw-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  .aw:hover .aw-content {
+    display: block;
+  } */
+ 
