@@ -52,6 +52,40 @@ p{
     background-color: darkblue;
     border-radius: 100px;
 }
+
+#bg{
+    /* background-color: rgb(102, 255, 0); */
+    width: 350px;
+    height: 220px;
+    background-image: url("../img/bg.jpg");
+    color: aliceblue;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+#bg h2{
+    text-align:right;
+    padding-top: 99.3px;
+}
+#pettern{
+    /* background-color: rgb(102, 255, 0); */
+    width: 350px;
+    height: 220px;
+    background-image: url("../img/o.jpg");
+    color:rgb(255, 0, 0);
+    /* background-size: cover; */
+     background-repeat: repeat-x
+}
+
+#pettern h2{
+    text-align:center;
+    padding-top: 99.3px;
+}
+/* body{ 
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+ } */
 /* .aw{  
     position: relative;
     display: inline-block;
